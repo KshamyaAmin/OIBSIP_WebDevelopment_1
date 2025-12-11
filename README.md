@@ -45,12 +45,7 @@ A landing page that looks **fresh, vibrant, and appetizing** — perfect for foo
 ## 🏢 OASIS INFOBYTE — Task List (Web Development & Designing)  
 This project is part of the **OASIS INFOBYTE Internship Program** under the *Web Development and Designing* domain.  
 
-### ✅ Tasks Completed  
+### ✅ Task Completed  
 - 🌐 **Responsive Landing Page** — Foodify  
-- ⏱️ **Stopwatch Web App**  
-- 🎮 **Tic-Tac-Toe Game**  
-- ☁️ **Weather App**  
-- 🍳 **Smart Recipe Generator**  
-
 ---
 
